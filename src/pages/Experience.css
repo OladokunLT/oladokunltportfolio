@@ -1,0 +1,46 @@
+.experience {
+  padding: 4rem 2rem;
+  background-color: #fff;
+  text-align: center;
+}
+
+.experience h2 {
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.experience-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.experience-item {
+  text-align: left;
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.experience-item h3 {
+  color: #444;
+  margin: 0.5rem 0;
+}
+
+.experience-item h4 {
+  color: #777;
+  font-weight: normal;
+}
+
+.experience-item span {
+  color: #999;
+  font-size: 0.9rem;
+}
+
+.experience-item p {
+  color: #666;
+  margin-top: 0.5rem;
+}
